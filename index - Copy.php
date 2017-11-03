@@ -14,7 +14,16 @@ This is a Title
 
 $x = rand(1,6);
 echo $x;
- 
+
+if ($x = 1) {
+ echo "Almost snake eyes";
+}
+ elseif ($x = 6) {
+  echo "Winner";
+ }
+ else
+  echo "Boring";
+ }
 
 ?>
 
