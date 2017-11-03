@@ -17,11 +17,11 @@ echo $x;
 
 if ($x = 1) {
  echo "Almost snake eyes";
-}
-elseif ($x = 6) {
+
+} elseif ($x = 6) {
  echo "Winner";
- }
-else {
+ 
+} else {
  echo "Boring";
  }
 
