@@ -15,7 +15,7 @@ This is a Title
 $x = rand(1,6);
 echo $x;
 
-echo "..."
+echo ...
  
 if ($x == 1) {
  echo "Almost snake eyes";
