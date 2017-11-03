@@ -18,11 +18,11 @@ echo $x;
 if ($x = 1) {
  echo "Almost snake eyes";
 }
- elseif ($x = 6) {
-  echo "Winner";
+elseif ($x = 6) {
+ echo "Winner";
  }
- else {
-  echo "Boring";
+else {
+ echo "Boring";
  }
 
 ?>
